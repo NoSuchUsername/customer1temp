@@ -1,0 +1,28 @@
+Solutionname Name: Leo Snapshot Solution
+publisher Name: Microsoft Publisher
+Managed State: True
+_________________________________
+Solutionname Name: Default Solution
+publisher Name: Default Publisher for praemiummic
+Managed State: False
+_________________________________
+Solutionname Name: test1
+publisher Name: Aram Publisger
+Managed State: False
+_________________________________
+Solutionname Name: Hello World
+publisher Name: David Karapetyan
+Managed State: False
+_________________________________
+Solutionname Name: Primary Solution
+publisher Name: An Example Publisher
+Managed State: True
+_________________________________
+Solutionname Name: Gevorg
+publisher Name: Gevorg
+Managed State: False
+_________________________________
+Solutionname Name: Activity Feeds
+publisher Name: Microsoft Dynamics
+Managed State: True
+_________________________________

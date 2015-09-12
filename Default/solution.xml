@@ -1119,7 +1119,7 @@
       </MissingDependency>
       <MissingDependency>
         <Required key="6" type="61" schemaName="msdyn_/ActivityFeeds.Form.js" displayName="msdyn_/ActivityFeeds.Form.js" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="7" type="60" displayName="Information" parentDisplayName="Case" id="{f658c846-f74c-459b-b591-b97558958106}" />
+        <Dependent key="7" type="60" displayName="Information" parentDisplayName="Lead" id="{9886ead0-4fcc-4747-9a18-08e7a9a6de71}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="6" type="61" schemaName="msdyn_/ActivityFeeds.Form.js" displayName="msdyn_/ActivityFeeds.Form.js" solution="ActivityFeedsCore (7.1.0.0)" />
@@ -1127,7 +1127,7 @@
       </MissingDependency>
       <MissingDependency>
         <Required key="6" type="61" schemaName="msdyn_/ActivityFeeds.Form.js" displayName="msdyn_/ActivityFeeds.Form.js" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="9" type="60" displayName="Information" parentDisplayName="Lead" id="{9886ead0-4fcc-4747-9a18-08e7a9a6de71}" />
+        <Dependent key="9" type="60" displayName="Information" parentDisplayName="Contact" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="6" type="61" schemaName="msdyn_/ActivityFeeds.Form.js" displayName="msdyn_/ActivityFeeds.Form.js" solution="ActivityFeedsCore (7.1.0.0)" />
@@ -1139,31 +1139,11 @@
       </MissingDependency>
       <MissingDependency>
         <Required key="6" type="61" schemaName="msdyn_/ActivityFeeds.Form.js" displayName="msdyn_/ActivityFeeds.Form.js" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="12" type="60" displayName="Information" parentDisplayName="Opportunity" id="{a2a56263-ec37-4991-a3b0-e7b37a71d818}" />
+        <Dependent key="12" type="60" displayName="Information" parentDisplayName="Case" id="{f658c846-f74c-459b-b591-b97558958106}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="6" type="61" schemaName="msdyn_/ActivityFeeds.Form.js" displayName="msdyn_/ActivityFeeds.Form.js" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="13" type="60" displayName="Information" parentDisplayName="Contact" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="13" type="60" displayName="Information" parentDisplayName="Contact" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="11" type="60" displayName="Information" parentDisplayName="User" id="{c0d7d7dd-afd0-4675-85fe-1cc5a48be6df}" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="12" type="60" displayName="Information" parentDisplayName="Opportunity" id="{a2a56263-ec37-4991-a3b0-e7b37a71d818}" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="10" type="60" displayName="Information" parentDisplayName="Competitor" id="{b81139b0-9849-4def-836b-75c4a0f0b03a}" />
-      </MissingDependency>
-      <MissingDependency>
-        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="9" type="60" displayName="Information" parentDisplayName="Lead" id="{9886ead0-4fcc-4747-9a18-08e7a9a6de71}" />
+        <Dependent key="13" type="60" displayName="Information" parentDisplayName="Opportunity" id="{a2a56263-ec37-4991-a3b0-e7b37a71d818}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
@@ -1171,7 +1151,27 @@
       </MissingDependency>
       <MissingDependency>
         <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="7" type="60" displayName="Information" parentDisplayName="Case" id="{f658c846-f74c-459b-b591-b97558958106}" />
+        <Dependent key="7" type="60" displayName="Information" parentDisplayName="Lead" id="{9886ead0-4fcc-4747-9a18-08e7a9a6de71}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
+        <Dependent key="10" type="60" displayName="Information" parentDisplayName="Competitor" id="{b81139b0-9849-4def-836b-75c4a0f0b03a}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
+        <Dependent key="9" type="60" displayName="Information" parentDisplayName="Contact" id="{894cc46a-b0cb-4ab0-8bf6-200544e46a2d}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
+        <Dependent key="11" type="60" displayName="Information" parentDisplayName="User" id="{c0d7d7dd-afd0-4675-85fe-1cc5a48be6df}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
+        <Dependent key="12" type="60" displayName="Information" parentDisplayName="Case" id="{f658c846-f74c-459b-b591-b97558958106}" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required key="14" type="61" schemaName="msdyn_/RecordWall.htm" displayName="msdyn_/RecordWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
+        <Dependent key="13" type="60" displayName="Information" parentDisplayName="Opportunity" id="{a2a56263-ec37-4991-a3b0-e7b37a71d818}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="15" type="61" schemaName="msdyn_/PersonalWall.htm" displayName="msdyn_/PersonalWall.htm" solution="ActivityFeedsCore (7.1.0.0)" />
@@ -1215,23 +1215,23 @@
       </MissingDependency>
       <MissingDependency>
         <Required key="29" type="90" schemaName="ActivityFeeds.Plugins.CaseCreate, ActivityFeeds.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" displayName="ActivityFeeds.Plugins.CaseCreate" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="30" type="92" id="{f1194edf-4c40-e511-80e7-3863bb2e0cd8}" />
+        <Dependent key="30" type="92" id="{281a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="29" type="90" schemaName="ActivityFeeds.Plugins.CaseCreate, ActivityFeeds.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" displayName="ActivityFeeds.Plugins.CaseCreate" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="31" type="92" id="{181a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
+        <Dependent key="31" type="92" id="{2c1a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="29" type="90" schemaName="ActivityFeeds.Plugins.CaseCreate, ActivityFeeds.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" displayName="ActivityFeeds.Plugins.CaseCreate" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="32" type="92" id="{281a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
+        <Dependent key="32" type="92" id="{311a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="29" type="90" schemaName="ActivityFeeds.Plugins.CaseCreate, ActivityFeeds.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" displayName="ActivityFeeds.Plugins.CaseCreate" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="33" type="92" id="{2c1a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
+        <Dependent key="33" type="92" id="{f1194edf-4c40-e511-80e7-3863bb2e0cd8}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="29" type="90" schemaName="ActivityFeeds.Plugins.CaseCreate, ActivityFeeds.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" displayName="ActivityFeeds.Plugins.CaseCreate" solution="ActivityFeedsCore (7.1.0.0)" />
-        <Dependent key="34" type="92" id="{311a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
+        <Dependent key="34" type="92" id="{181a4edf-4c40-e511-80e7-3863bb2e0cd8}" />
       </MissingDependency>
       <MissingDependency>
         <Required key="35" type="90" schemaName="ActivityFeeds.Plugins.AddToQueue, ActivityFeeds.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" displayName="ActivityFeeds.Plugins.AddToQueue" solution="ActivityFeedsCore (7.1.0.0)" />
